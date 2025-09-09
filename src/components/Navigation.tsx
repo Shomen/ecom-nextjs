@@ -7,7 +7,7 @@ export default function Navigation() {
     {/* Logo */}
     <div className="flex items-center">
       <div className="bg-white text-black rounded-full w-10 h-10 flex items-center justify-center shadow-lg">
-        <span className="font-bold text-base tracking-wide">Ecom</span>
+        <Link href="/"><span className="font-bold text-base tracking-wide">Ecom</span></Link>
       </div>
     </div>
     {/* Navigation Links */}
