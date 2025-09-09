@@ -30,7 +30,7 @@ export default function HomeSecondSection() {
                     </div>
                     <div className="flex flex-col justify-center items-center px-0 md:px-4 pb-4 flex-1">
                         <h2 className="text-xl md:text-3xl font-bold mb-2 text-gray-800 text-center">Excepteur sint</h2>
-                        <p className="w-md md:w-full text-sm md:text-lg text-gray-700 text-center">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
+                        <p className="text-sm text-gray-700 text-center">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
                     </div>
                 </div>
                 {/* Right image */}
