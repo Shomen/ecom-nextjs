@@ -6,7 +6,7 @@ export default function HomeSecondSection() {
                 {/* Left image */}
                 <div className="h-[800px] md:h-[100vh] w-full relative overflow-hidden bg-white flex items-center justify-center">
                     <Image
-                        src="/images/Sf-left-pexels-olenkabohovyk-18468859.jpg"
+                        src="/images/sf-left-pexels-olenkabohovyk-18468859.webp"
                         alt="Left Section"
                         width={400}
                         height={400}
@@ -20,7 +20,7 @@ export default function HomeSecondSection() {
                 <div className="flex flex-col h-[800px] md:h-[100vh] w-full bg-[#d6d3cb]">
                     <div className="flex items-center justify-center relative overflow-hidden" style={{ flex: '0 0 60%', height: '60%' }}>
                         <Image
-                            src="/images/md-pexels-thisispav-29383009.jpg"
+                            src="/images/md-pexels-thisispav-29383009.webp"
                             alt="Middle Section"
                             width={400}
                             height={400}
@@ -38,7 +38,7 @@ export default function HomeSecondSection() {
                 {/* Right image */}
                 <div className="h-[800px] md:h-[100vh] w-full relative overflow-hidden bg-white flex items-center justify-center">
                     <Image
-                        src="/images/Sof-side-pexels-abrar-29838521.jpg"
+                        src="/images/sof-side-pexels-abrar-29838521.webp"
                         alt="Right Section"
                         width={400}
                         height={400}
