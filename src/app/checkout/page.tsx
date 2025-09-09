@@ -23,7 +23,7 @@ export default function CheckoutPage() {
       <div className="flex flex-col md:flex-row gap-4 sm:gap-8 w-full max-w-6xl px-2 sm:px-4">
         {/* Checkout Form */}
         <form className="flex-1 bg-white rounded-lg shadow p-4 sm:p-8 mb-6 md:mb-0">
-          <h2 className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6">Checkout</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6 text-black">Checkout</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-4 mb-2 sm:mb-4">
             <input type="text" placeholder="First name" className="border rounded px-3 py-2 text-sm sm:text-base" />
             <input type="text" placeholder="Last name" className="border rounded px-3 py-2 text-sm sm:text-base" />
@@ -38,10 +38,10 @@ export default function CheckoutPage() {
           </div>
           <input type="text" placeholder="Phone" className="border rounded px-3 py-2 w-full mb-2 sm:mb-4 text-sm sm:text-base" />
 
-          <h3 className="font-bold text-base sm:text-lg mt-6 sm:mt-8 mb-1 sm:mb-2">Contact Information</h3>
+          <h3 className="font-bold text-base sm:text-lg mt-6 sm:mt-8 mb-1 sm:mb-2 text-black">Contact Information</h3>
           <input type="text" placeholder="Email or phone number" className="border rounded px-3 py-2 w-full mb-2 sm:mb-4 text-sm sm:text-base" />
 
-          <h3 className="font-bold text-base sm:text-lg mt-6 sm:mt-8 mb-1 sm:mb-2">Shipping Method</h3>
+          <h3 className="font-bold text-base sm:text-lg mt-6 sm:mt-8 mb-1 sm:mb-2 text-black">Shipping Method</h3>
           <div className="mb-2 sm:mb-4">
             <label className="flex items-center mb-2 text-xs sm:text-base">
               <input type="radio" name="shipping" defaultChecked className="mr-2" />
@@ -55,10 +55,10 @@ export default function CheckoutPage() {
             </label>
           </div>
 
-          <h3 className="font-bold text-base sm:text-lg mt-6 sm:mt-8 mb-1 sm:mb-2">Payment</h3>
+          <h3 className="font-bold text-base sm:text-lg mt-6 sm:mt-8 mb-1 sm:mb-2 text-black">Payment</h3>
           <div className="mb-2 sm:mb-4">
 
-          <h3 className="font-bold text-lg mt-8 mb-2">Payment</h3>
+          <h3 className="font-bold text-lg mt-8 mb-2 text-black">Payment</h3>
           <div className="mb-4">
             <label className="flex items-center mb-2">
               <input type="radio" name="payment" className="mr-2" />
@@ -88,7 +88,7 @@ export default function CheckoutPage() {
               PayPal <span className="ml-2"> <Image src="/images/paypal-brands-solid.svg" alt="PayPal" width={32} height={20} /> </span>
             </label>
           </div>
-          <div className="text-xs text-gray-500 mt-6">
+          <div className="text-xs text-gray-800 mt-6">
             Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our <Link href="#" className="underline">privacy policy</Link>.
           </div>
         </div>
