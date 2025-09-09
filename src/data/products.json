@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "title": "Sofa Product 1",
+    "image": "sf-left-pexels-olenkabohovyk-18468859.webp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+    "price": 1099.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 2,
+    "title": "Sofa Product 2",
+    "image": "sof-side-pexels-abrar-29838521.webp",
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+    "price": 1199.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 3,
+    "title": "Sofa Product 3",
+    "image": "sf-pexels-beyza-kilicdere-1855080990-29012624.webp",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.\nConsectetur, adipisci velit.",
+    "price": 1299.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 4,
+    "title": "Sofa Product 4",
+    "image": "sf-pexels-dada-_design-240566386-12277020.webp",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+    "price": 1099.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 5,
+    "title": "Sofa Product 5",
+    "image": "sf-pexels-dada-_design-240566386-12277406.webp",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "price": 1199.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 6,
+    "title": "Sofa Product 6",
+    "image": "sf-pexels-donaldtong94-133919.webp",
+    "description": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "price": 1299.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 7,
+    "title": "Sofa Product 7",
+    "image": "sf-pexels-maksgelatin-4352247.webp",
+    "description": "Mauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "price": 1099.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 8,
+    "title": "Sofa Product 8",
+    "image": "sf-pexels-mikhail-nilov-6981121.webp",
+    "description": "Suspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.",
+    "price": 1199.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 9,
+    "title": "Sofa Product 9",
+    "image": "sf-pexels-mikhail-nilov-6981124.webp",
+    "description": "Phasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+    "price": 1299.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 10,
+    "title": "Sofa Product 10",
+    "image": "sf-pexels-pixabay-276534.webp",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrud exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "price": 1099.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 11,
+    "title": "Sofa Product 11",
+    "image": "sf-pexels-ron-lach-10121689.webp",
+    "description": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrud exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.",
+    "price": 1199.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 12,
+    "title": "Sofa Product 12",
+    "image": "sf-pexels-shvets-production-7561276.webp",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.",
+    "price": 1299.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 13,
+    "title": "Table Product 1",
+    "image": "tb-pexels-enginakyurt-4172382.webp",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.",
+    "price": 499.00,
+    "category": "Table"
+  },
+  {
+    "id": 14,
+    "title": "Table Product 2",
+    "image": "tb-pexels-jworks1124-17508603.webp",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+    "price": 599.00,
+    "category": "Table"
+  },
+  {
+    "id": 15,
+    "title": "Table Product 3",
+    "image": "tb-pexels-kseniachernaya-11112739.webp",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "price": 699.00,
+    "category": "Table"
+  },
+  {
+    "id": 16,
+    "title": "Table Product 4",
+    "image": "tb-pexels-simona-tvrda-196507419-11507947.webp",
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+    "price": 499.00,
+    "category": "Table"
+  },
+  {
+    "id": 17,
+    "title": "Table Product 5",
+    "image": "tb-pexels-simona-tvrda-196507419-11507948.webp",
+    "description": "Mauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "price": 599.00,
+    "category": "Table"
+  },
+  {
+    "id": 18,
+    "title": "Sofa Product 13",
+    "image": "md-pexels-thisispav-29383009.webp",
+    "description": "Suspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.",
+    "price": 1299.00,
+    "category": "Sofa"
+  },
+  {
+    "id": 19,
+    "title": "Bed Product 1",
+    "image": "bd-pexels-heyho-5998134.webp",
+    "description": "Phasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+    "price": 899.00,
+    "category": "Bed"
+  },
+  {
+    "id": 20,
+    "title": "Bed Product 2",
+    "image": "bd-pexels-heyho-6588582.webp",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "price": 999.00,
+    "category": "Bed"
+  },
+  {
+    "id": 21,
+    "title": "Bed Product 3",
+    "image": "bd-pexels-heyho-6782473.webp",
+    "description": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.",
+    "price": 1099.00,
+    "category": "Bed"
+  },
+  {
+    "id": 22,
+    "title": "Bed Product 4",
+    "image": "bd-pexels-heyho-7546724.webp",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.",
+    "price": 899.00,
+    "category": "Bed"
+  },
+  {
+    "id": 23,
+    "title": "Bed Product 5",
+    "image": "bd-pexels-pixabay-271618.webp",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.",
+    "price": 999.00,
+    "category": "Bed"
+  },
+  {
+    "id": 24,
+    "title": "Bed Product 6",
+    "image": "bd-pexels-pixabay-279746.webp",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+    "price": 1099.00,
+    "category": "Bed"
+  },
+  {
+    "id": 25,
+    "title": "Cabinet Product 1",
+    "image": "cab-pexels-atbo-66986-245219.webp",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "price": 799.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 26,
+    "title": "Cabinet Product 2",
+    "image": "cabi-pexels-curtis-adams-1694007-12700441.webp",
+    "description": "Mauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "price": 899.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 27,
+    "title": "Cabinet Product 3",
+    "image": "cabi-pexels-curtis-adams-1694007-3935350.webp",
+    "description": "Suspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.",
+    "price": 999.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 28,
+    "title": "Cabinet Product 4",
+    "image": "cabi-pexels-falling4utah-2724749.webp",
+    "description": "Phasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+    "price": 799.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 29,
+    "title": "Cabinet Product 5",
+    "image": "cabi-pexels-heyho-7214336.webp",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "price": 899.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 30,
+    "title": "Cabinet Product 6",
+    "image": "cabi-pexels-itsterrymag-2988865.webp",
+    "description": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.",
+    "price": 999.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 31,
+    "title": "Cabinet Product 7",
+    "image": "cabi-pexels-saviesa-home-1098995-2089698.webp",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.",
+    "price": 799.00,
+    "category": "Cabinet"
+  },
+  {
+    "id": 32,
+    "title": "Chair Product 1",
+    "image": "ch-pexels-daria-liudnaya-8167155.webp",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.",
+    "price": 499.00,
+    "category": "Chair"
+  },
+  {
+    "id": 33,
+    "title": "Chair Product 2",
+    "image": "ch-pexels-darina-belonogova-7959568.webp",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrum exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+    "price": 599.00,
+    "category": "Chair"
+  },
+  {
+    "id": 34,
+    "title": "Chair Product 3",
+    "image": "ch-pexels-hormel-1431176-2762247.webp",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\nMauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "price": 399.00,
+    "category": "Chair"
+  },
+  {
+    "id": 35,
+    "title": "Chair Product 4",
+    "image": "ch-pexels-karolina-grabowska-7602882.webp",
+    "description": "Mauris euismod, sem at convallis placerat, enim erat ultricies urna, eu tincidunt erat elit eu massa.\nSuspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet.",
+    "price": 499.00,
+    "category": "Chair"
+  },
+  {
+    "id": 36,
+    "title": "Chair Product 5",
+    "image": "ch-pexels-karolina-grabowska-7602900.webp",
+    "description": "Suspendisse potenti.\nPhasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.",
+    "price": 599.00,
+    "category": "Chair"
+  },
+  {
+    "id": 37,
+    "title": "Chair Product 6",
+    "image": "ch-pexels-kseniachernaya-7480783.webp",
+    "description": "Phasellus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod nisi.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrud exercitationem ullam corporis suscipit laboriosam.",
+    "price": 399.00,
+    "category": "Chair"
+  },
+  {
+    "id": 38,
+    "title": "Chair Product 7",
+    "image": "ch-pexels-thisispav-27522843.webp",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\nTotam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.\nQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.\nUt enim ad minima veniam, quis nostrud exercitationem ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "price": 499.00,
+    "category": "Chair"
+  }
+]

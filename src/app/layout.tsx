@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
+import Navigation from "../components/Navigation";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import TopFooter from "../components/TopFooter";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,7 +29,20 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+          <header className="w-full bg-black border-b border-white/10 shadow-lg">
+            <div className="container mx-auto">
+              <Navigation />
+            </div>
+          </header>
+          <main className="min-h-[70vh] pt-11">{children}</main>
+          {/* Top Footer Section */}
+          <TopFooter />
+          {/* Bottom Footer */}
+          <footer className="w-full bg-black border-t border-white/10 py-4 flex justify-center items-center">
+            <span className="text-sm text-white/70 font-geist-mono">
+              © {new Date().getFullYear()} Ecom Fancy. All rights reserved.
+            </span>
+          </footer>
       </body>
     </html>
   );
