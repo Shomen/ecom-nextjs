@@ -30,3 +30,6 @@ This project is for demonstration only. All products, images, and data are dummy
 
 Feel free to use this as a starting point for your own e-commerce projects!
 
+## App Demo
+
+[https://ecom-nextjs.netlify.app/](https://ecom-nextjs.netlify.app/)
