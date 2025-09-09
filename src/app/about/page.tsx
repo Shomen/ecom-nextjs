@@ -22,7 +22,7 @@ export default function AboutPage() {
         </div>
         <div className="flex flex-col items-center justify-center gap-6">
           <Image
-            src="/images/sf-pexels-maksgelatin-4352247.jpg"
+            src="/images/sf-pexels-maksgelatin-4352247.webp"
             alt="About Us Hero"
             width={500}
             height={600}
@@ -51,7 +51,7 @@ export default function AboutPage() {
         </div>
         <div className="flex items-center justify-center">
           <Image
-            src="/images/bd-pexels-heyho-5998134.jpg"
+            src="/images/bd-pexels-heyho-5998134.webp"
             alt="Curated Style"
             width={400}
             height={500}
