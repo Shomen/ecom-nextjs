@@ -33,3 +33,26 @@ Feel free to use this as a starting point for your own e-commerce projects!
 ## App Demo
 
 [https://ecom-nextjs.netlify.app/](https://ecom-nextjs.netlify.app/)
+
+## Screenshots
+
+### Page
+- Desktop (≥1280px)
+  
+  ![Desktop - Home](public/images/EkcomHomeDes.jpg)
+
+- Tablet (~768–1024px)
+  
+  ![Tablet - Home](public/images/EkcomHomeTab.jpg)
+
+- Mobile (≤430px)
+  
+  ![Mobile - Home](public/images/EkcomHomeMob.jpg)
+
+- Mobile (≤430px) Products page
+
+  ![Mobile - Home](public/images/EkcomProdMob.jpg)
+
+- Mobile (≤430px) Cart
+
+  ![Mobile - Home](public/images/EkcomCartMob.jpg)
