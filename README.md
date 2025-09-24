@@ -39,20 +39,20 @@ Feel free to use this as a starting point for your own e-commerce projects!
 ### Page
 - Desktop (≥1280px)
   
-  ![Desktop - Home](public/images/EkcomHomeDes.jpg)
+  ![Desktop - Home](public/images/EcomHomeDes.jpg)
 
 - Tablet (~768–1024px)
   
-  ![Tablet - Home](public/images/EkcomHomeTab.jpg)
+  ![Tablet - Home](public/images/EcomHomeTab.jpg)
 
 - Mobile (≤430px)
   
-  ![Mobile - Home](public/images/EkcomHomeMob.jpg)
+  ![Mobile - Home](public/images/EcomHomeMob.jpg)
 
 - Mobile (≤430px) Products page
 
-  ![Mobile - Home](public/images/EkcomProdMob.jpg)
+  ![Mobile - Home](public/images/EcomProdMob.jpg)
 
 - Mobile (≤430px) Cart
 
-  ![Mobile - Home](public/images/EkcomCartMob.jpg)
+  ![Mobile - Home](public/images/EcomCartMob.jpg)
