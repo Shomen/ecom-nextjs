@@ -32,7 +32,7 @@ Feel free to use this as a starting point for your own e-commerce projects!
 
 ## App Demo
 
-[https://ecom-nextjs.netlify.app/](https://ecom-nextjs.netlify.app/)
+[https://ecom-brown-six.vercel.app/](https://ecom-brown-six.vercel.app/)
 
 ## Screenshots
 
